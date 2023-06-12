@@ -21,7 +21,7 @@ If you are a law enforcement agency, please utilize the 'Issues' section to cont
 
 
 #### IF YOUR INFECTED
-"If you believe that someone has infected your system with my program or any other form of malware, please take immediate action to protect yourself. Disconnect your device from the internet, and follow the recommended steps provided by the Federal Bureau of Investigation (FBI) regarding ransomware and cybersecurity threats. You can find valuable information and assistance on the FBI's official website at: https://www.fbi.gov/how-we-can-help-you/safety-resources/scams-and-safety/common-scams-and-crimes/ransomware
+If you believe that someone has infected your system with my program or any other form of malware, please take immediate action to protect yourself. Disconnect your device from the internet, and follow the recommended steps provided by the Federal Bureau of Investigation (FBI) regarding ransomware and cybersecurity threats. You can find valuable information and assistance on the FBI's official website at: https://www.fbi.gov/how-we-can-help-you/safety-resources/scams-and-safety/common-scams-and-crimes/ransomware
 
 ### Disclaimer: Educational Purpose Only - Not Responsibility for Illegal Activities.
 Please be advised that my program is intended solely for educational purposes. I want to emphasize that any illegal activities resulting from the distribution or utilization of my program are the sole responsibility of the individuals involved. I expressly disclaim any liability for such actions. It is essential to comply with all applicable laws and regulations when using my program.
