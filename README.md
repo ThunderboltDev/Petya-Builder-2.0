@@ -1,6 +1,9 @@
 # Petya-Builder-2.0
 This is Petya Builder 2.0 Edited by me i made it more powerful than it is now
 
+## FOR LAW ENFORCEMENT
+If you are a law enforcement agency, please utilize the 'Issues' section to contact me.
+
 ## Features
 1. Disables Defender
 2. Disables UAC
@@ -12,6 +15,9 @@ This is Petya Builder 2.0 Edited by me i made it more powerful than it is now
 2. Disable Taskmgr, Control Panel, and many more
 3. Block Sites
 4. Obfuscation For Petya
+
+### Disclaimer: Educational Purpose Only - No Responsibility for Illegal Activities.
+Please be advised that my program is intended solely for educational purposes. I want to emphasize that any illegal activities resulting from the distribution or utilization of my program are the sole responsibility of the individuals involved. I expressly disclaim any liability for such actions. It is essential to comply with all applicable laws and regulations when using my program.
 
 ### Disclaimer
 The content and code provided in this GitHub repository are intended for educational and informational purposes only. While efforts have been made to ensure the accuracy and reliability of the information presented, I, as the repository owner, cannot be held responsible for any actions taken by individuals who access or use this repository.
