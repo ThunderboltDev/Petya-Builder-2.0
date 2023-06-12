@@ -16,7 +16,7 @@ If you are a law enforcement agency, please utilize the 'Issues' section to cont
 ## Adding:
 1. Obfuscation For Petya
 
-### Disclaimer: Educational Purpose Only - No Responsibility for Illegal Activities.
+### Disclaimer: Educational Purpose Only - Not Responsibility for Illegal Activities.
 Please be advised that my program is intended solely for educational purposes. I want to emphasize that any illegal activities resulting from the distribution or utilization of my program are the sole responsibility of the individuals involved. I expressly disclaim any liability for such actions. It is essential to comply with all applicable laws and regulations when using my program.
 
 ### Disclaimer
