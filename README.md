@@ -12,6 +12,7 @@ If you are a law enforcement agency, please utilize the 'Issues' section to cont
 5. Loop Run as Admin until user presses yes
 6. Disable Taskmgr, Control Panel, and many more
 7. Block Sites
+8. IP Blacklist
 
 ## Adding:
 1. Obfuscation For Petya
