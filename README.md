@@ -4,6 +4,9 @@ This is Petya Builder 2.0 Edited by me i made it more powerful than it is now
 ## FOR LAW ENFORCEMENT
 If you are a law enforcement agency, please utilize the 'Issues' section to contact me.
 
+## I WILL REPORT ANY LEECHERS!
+
+
 ## Features
 1. Disables Defender
 2. Disables UAC
